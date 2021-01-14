@@ -6,4 +6,4 @@
 - Looking to contribute to open source 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrnewton&layout=compact&hide=vim-script&exclude_repo=cy_client,vimfiles,dotfiles,opt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrnewton&layout=compact&exclude_repo=cy_client,dotfiles,jrnewton.github.io)](https://github.com/anuraghazra/github-readme-stats)
